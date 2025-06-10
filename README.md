@@ -9,5 +9,5 @@
 
 <p align="center">
   I’m currently part of the <strong>ALX Software Engineering Program</strong> where I’m sharpening my skills in frontend technologies and real-world problem-solving.<br>
-  Passionate about <strong>integrity, creativity,being useful</strong>,and everythig tech.</strong>. I believe in building things that matter.
+  Passionate about <strong>integrity, creativity,being useful</strong>,and everything tech.</strong>. I believe in building things that matter.
 
